@@ -1,2 +1,2 @@
-# privacy-policy
-Privacy Policy
+# Welcome
+<a href=privacy-policy.html>Privacy Policy Document</a>
